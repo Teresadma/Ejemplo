@@ -1,4 +1,9 @@
 
+function sum(num1,num2=0,num3){
+    return num1 + num2 + num3
+};
+
+
 function subs(num1,num2=0){
     return num1 - num2
 };
